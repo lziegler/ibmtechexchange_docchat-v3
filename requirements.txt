@@ -49,7 +49,6 @@ googleapis-common-protos==1.66.0
 gradio==5.14.0
 gradio_client==1.7.0
 grpcio==1.70.0
-h11>=0.16.0
 html5lib==1.1
 httpcore==1.0.7
 httptools==0.6.4
@@ -200,19 +199,15 @@ tenacity==9.0.0
 threadpoolctl==3.5.0
 tifffile==2025.1.10
 tiktoken==0.8.0
-tokenizers==0.21.0
 tomlkit==0.13.2
-torch>=2.6.0
 torchvision==0.20.1
 tqdm==4.67.1
-transformers==4.48.1
 typer==0.12.5
 typing-inspect==0.9.0
 typing_extensions==4.12.2
 tzdata==2025.1
 unstructured==0.16.15
 unstructured-client==0.25.9
-urllib3==1.26.18
 uvicorn==0.34.0
 uvloop==0.21.0
 watchfiles==1.0.4
